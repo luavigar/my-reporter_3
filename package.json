@@ -1,0 +1,25 @@
+{
+  "name": "my-reporter_3",
+  "version": "1.0.1",
+  "description": "Paquete de prueba para publicar nuestros módulos.",
+  "main": "index.js",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "my-reporter_3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luavigar/my-reporter_3.git"
+  },
+  "keywords": [
+    "my-reporter_3"
+  ],
+  "author": {
+    "name": "luavigar",
+    "email": "luavigar@gmail.com",
+    "url": "https://github.com/luavigar"
+  },
+  "license": "MIT"
+}
